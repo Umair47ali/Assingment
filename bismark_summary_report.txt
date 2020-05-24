@@ -1,0 +1,4 @@
+File	Total Reads	Aligned Reads	Unaligned Reads	Ambiguously Aligned Reads	No Genomic Sequence	Duplicate Reads (removed)	Unique Reads (remaining)	Total Cs	Methylated CpGs	Unmethylated CpGs	Methylated chgs	Unmethylated chgs	Methylated CHHs	Unmethylated CHHs
+8cell_rep1_trimmed_WGBS_R1_bismark_bt2_pe.bam	102224948	4773290	96524197	3314106	0	1287840	3485450	95126744	1954450	2177658	221695	19915069	803179	70054693
+Epiblast_rep1_trimmed_WGBS_R1_bismark_bt2_pe.bam	159250949	11875430	148679161	4634073	0	1615193	10260237	272620658	9107078	2345941	1209265	56541632	2922479	200494263
+ICM_rep1_trimmed_WGBS_R1_bismark_bt2_pe.bam	105557539	7040772	98393748	3643405	0	1265474	5775298	155252803	1726584	4969460	231089	32713286	862512	114749872

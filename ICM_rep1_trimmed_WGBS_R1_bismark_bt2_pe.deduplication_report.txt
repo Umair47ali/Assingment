@@ -1,0 +1,7 @@
+
+Total number of alignments analysed in ICM_rep1_trimmed_WGBS_R1_bismark_bt2_pe.bam:	7040772
+Total number duplicated alignments removed:	1265474 (17.97%)
+Duplicated alignments were found at:	653933 different position(s)
+
+Total count of deduplicated leftover sequences: 5775298 (82.03% of total)
+

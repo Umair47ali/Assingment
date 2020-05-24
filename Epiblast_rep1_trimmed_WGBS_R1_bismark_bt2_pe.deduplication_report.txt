@@ -1,0 +1,7 @@
+
+Total number of alignments analysed in Epiblast_rep1_trimmed_WGBS_R1_bismark_bt2_pe.bam:	11875430
+Total number duplicated alignments removed:	1615193 (13.60%)
+Duplicated alignments were found at:	921914 different position(s)
+
+Total count of deduplicated leftover sequences: 10260237 (86.40% of total)
+
